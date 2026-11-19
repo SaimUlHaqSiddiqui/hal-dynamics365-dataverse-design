@@ -112,7 +112,3 @@ Made where the brief is silent. Each states what changes if it is wrong, and sho
 ## How to view
 
 Open the PNG images in the `diagrams/` folder directly on GitHub.
-
-## Status
-
-Version 1.0, for interview review. Confidential: prepared for HAL.
